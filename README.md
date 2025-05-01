@@ -11,13 +11,13 @@
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/tomasfriz/Mi-porfolio.git](https://github.com/tomasfriz/Mi-porfolio.git)
 
-- 💬 Preguntame sobre
-** - Lenguajes: HTML5, CSS3, SASS, JavaScript, Python, Java, C, C#.
-- Frameworks y Librerías: React.js, Angular, VUE.js, Laravel, Node.js, Spring Boot, Express, Tailwind.css, Bootstrap, Next.js, Vite.js, ReactPy, WordPress.
-- Bases de Datos: SQLServer, MySQL, MongoDB, OracleDB, Firebase, Firestore.
-- Diseño y UX/UI: Figma, Photoshop, Illustrator, Canva.
-- Herramientas: Git, GitHub, GitHub Pages, Trello, Jira, Slack, Aptugo, Visual Studio Code, IntelliJ, Divi, Elementor Pro, WooCommerce, Hostinger, Azure.
-- Otras Tecnologías: APIs, PWA, JSON, Linux, Hosting, Inteligencia Artificial (IA), Arduino.**
+- 💬 Preguntame sobre: 
+  + Lenguajes: HTML5, CSS3, SASS, JavaScript, Python, Java, C, C#.
+  + Frameworks y Librerías: React.js, Angular, VUE.js, Laravel, Node.js, Spring Boot, Express, Tailwind.css, Bootstrap, Next.js, Vite.js, ReactPy, WordPress.
+  + Bases de Datos: SQLServer, MySQL, MongoDB, OracleDB, Firebase, Firestore.
+  + Diseño y UX/UI: Figma, Photoshop, Illustrator, Canva.
+  + Herramientas: Git, GitHub, GitHub Pages, Trello, Jira, Slack, Aptugo, Visual Studio Code, IntelliJ, Divi, Elementor Pro, WooCommerce, Hostinger, Azure.
+  + Otras Tecnologías: APIs, PWA, JSON, Linux, Hosting, Inteligencia Artificial (IA), Arduino.
 
 - 📫 Como llegar a mi **tomas.agustin.friz@gmail.com**
 
